@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
       currentAnimal = character;
       showAnimal(character);
     });
-}
+}q
 
       function showAnimal(character) {
         const characterName = document.querySelector("p#name");
